@@ -1,0 +1,12 @@
+serverBindAddress: 0.0.0.0:8080
+databaseURI: postgres://127.0.0.1:5432/currencies?sslmode=disable
+reloadInterval: 10m
+currencies:
+  - EUR
+  - GBP
+  - CNY
+  - JPY
+  - HKD
+  - AUD
+  - RUB
+  - NOK
